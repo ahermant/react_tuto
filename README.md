@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Personal test with the React tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is just a personal implementation of the React tutorial. Please do not worry about it.
 
 ## Available Scripts
 
